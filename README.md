@@ -1,4 +1,4 @@
-# PiTanq assembly instuction
+# PiTanq assembly instruction
 ## Package
 * Chassis plate
 * Acrylic plate
