@@ -39,7 +39,7 @@ Assembled driving wheel:
 
 ![](https://pitanq.com/img/guide/driving_wheel.png)
 
-### Side assemble
+### Assemble sides of the chassis 
 Attach shock absorbers and springs to the side. 
 ![](https://pitanq.com/img/guide/side.png)
 ### Attach motors
@@ -70,8 +70,10 @@ Using black M3 screws attach the brass standoffs at top of the plate.
 Using 2 M3 flat head screws attach the battery holder to the bottom of the plate
 ![](https://pitanq.com/img/guide/battery_holder.jpg)
 
-### Camera assemble
+### Camera assembly
 #### Assemble camera stand
+Use this [exellent guide from Adafruit](https://learn.adafruit.com/mini-pan-tilt-kit-assembly/getting-started) to assemble the stand.
+
 #### Attach camera stand to the chassis plate
 Using 2 M2 screws and nuts attach the camera stand with rear holes.
 Make sure the stand mount allows to tilt to the right angle to the right and left.
