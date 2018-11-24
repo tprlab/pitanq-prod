@@ -30,7 +30,7 @@ There are parts for one wheel:
 * Put the coupling through the bearings
 * Fix the coupling to the bearing with M2 screw
 The assembled wheel looks like that:
-![](https://pitanq.com/img/guide/wheel_parts.jpg)
+![](https://pitanq.com/img/guide/wheel.jpg)
 
 There are parts for a driving wheel:
 ![](https://pitanq.com/img/guide/driving_wheel_parts.png)
